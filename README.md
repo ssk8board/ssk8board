@@ -8,11 +8,6 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ssk8board.ssk8board&left_color=lightgoldenrodyellow&right_color=hotpink"  />
-</div>
-
-###
 <p data-importer="text" align="center">ɪ ʟᴏᴠᴇ ᴛᴇᴄʜᴅᴇᴄᴋꜱ. ᴀꜱᴋ ᴍᴇ ᴛᴏ ᴅᴏ ᴛʀɪᴄᴋꜱ!</p>
 
 ###
